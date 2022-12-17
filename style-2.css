@@ -23,8 +23,7 @@
     "sidebar sidebar sidebar main main main"
     "sidebar sidebar sidebar footer footer footer";
   text-align: center;
-  grid-gap: 10px;
-  
+  grid-gap: 10px;  
 }
 
 .box-container div {
